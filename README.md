@@ -2,7 +2,7 @@
 
 Project created using Grid and Flexbox
 
-[<img src="" alt="A gif of the project screen">]
+[<img src="./scr/desktop-screen.gif" alt="A gif of the project screen">]
 
 ## Technologies
 - HTML;
