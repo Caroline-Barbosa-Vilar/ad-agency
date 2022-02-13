@@ -12,5 +12,6 @@ Project created using Grid and Flexbox
 
 ## What I have learned
 - How to create the layout using Grid;
-- How to use Flex to position the elements in a more responsive way;
-- How to create a hamburger menu.
+- Position elements in a more responsive way using Flex;
+- Create a hamburger menu;
+- Create an animated arrow.
