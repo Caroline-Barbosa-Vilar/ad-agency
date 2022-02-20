@@ -2,9 +2,16 @@
 
 Project created using Grid and Flexbox
 
-[<img src="./src/desktop-screen.gif" alt="A gif of the project desktop screen">](https://bo83dev.github.io/ad-agency/)
+https://bo83dev.github.io/ad-agency/
 
-[<img src="./src/mobile-screen.gif" alt="A gif of the project desktop screen">]
+
+Desktop
+
+<img src="./src/desktop-screen.gif" alt="A gif of the project desktop screen">
+
+Mobile
+
+<img src="./src/mobile-screen.gif" alt="A gif of the project desktop screen">
 
 ## Technologies
 - HTML;
