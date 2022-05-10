@@ -1,6 +1,6 @@
 <p align='center'> <img src="./src/ad-agency.png" alt="the agency logo that is the agency name"> </p>
 
-<h1 align='center'> Ad Agency </h1>
+<hr>
 
 <div align='center'>
 	<a href="https://github.com/Bo83dev/digital-agc/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Bo83dev/digital-agc"></a>
