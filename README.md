@@ -47,7 +47,7 @@ This is a landing page for a fictitious ad agency. This project was created duri
 
 ## Access the Project
 
-You can [access the project here](https://bo83dev.github.io/ad-agency/) 
+You can [access the project here](https://caroline-barbosa-vilar.github.io/ad-agency/) 
 
 Mobile
 
@@ -107,6 +107,8 @@ Essa é uma landing page de uma agência de publicidade fictícia. Esse projeto 
 
 ## Acesse o projeto
 
+Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/ad-agency/)
+
 Mobile
 
 <img src="./src/mobile-screen.gif" alt="A gif of the project desktop screen">
@@ -118,4 +120,4 @@ Desktop
 
 <hr>
 
-Developed with 🧡 by me!  [Carol Vilar](https://www.linkedin.com/in/carolinebarbosavilar/)
+Developed with 🧡 by [me](https://www.linkedin.com/in/carolinebarbosavilar/)!
